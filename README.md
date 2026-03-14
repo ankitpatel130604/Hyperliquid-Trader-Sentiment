@@ -1,4 +1,4 @@
-# Hyperliquid-Trader-Sentiment
+
 # Hyperliquid Trader Sentiment Analysis
 
 This project analyzes trader behavior on Hyperliquid in relation to Bitcoin market sentiment (Fear/Greed) and provides actionable insights. It includes a lightweight **Gradio dashboard** and an API for clients to explore trader metrics, top traders, and strategy rules.
